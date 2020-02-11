@@ -1,0 +1,50 @@
+*{margin:0px;padding:0px;}
+
+body {
+	background-image: url('image/paisley.png');
+	background-repeat: repeat;
+	}
+	
+h1 {
+	margin-top:40px;
+	color: chocolate;
+	text-align: center;
+	}
+
+.kotak-masuk {
+	width:300px;
+	height:300px;
+	border:1px solid #97600F;
+	margin:150px auto;
+	}
+
+.judul-masuk {
+	width:100%;
+	height:30px;
+	border:1px solid #97600F;
+	text-align: center;
+	line-height:30px
+	font-weight: bold;
+	background-color: #EC9C23;
+	font-size:20px;
+	}
+
+.masuk {
+	width:100%;
+	height:267px;
+	background-color:#F0E68C;
+	text-align: center;
+	}
+
+.masuk form {
+	margin-bottom:20px;
+	}
+ 
+.masuk form input {
+	margin-top:10px;
+	width:250px;
+	height:30px;
+	} 
+
+
+
